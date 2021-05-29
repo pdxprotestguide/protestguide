@@ -1,6 +1,6 @@
 ---
 layout: default
-pageType: landing
+pageType: page
 style: color
 ---
 

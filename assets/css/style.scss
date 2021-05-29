@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
-p {
-    color: red;
+.color {
+    &.page {
+        background-color: rgb(251, 234, 251);
+    }
+
+    &.landing {
+        background-color: rgb(251, 234, 251);
+    }
 }

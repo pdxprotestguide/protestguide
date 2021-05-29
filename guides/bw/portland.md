@@ -1,7 +1,6 @@
 ---
 layout: default
-pageType: landing
-style: color
+pageType: page
 ---
 
 ## Welcome to GitHub Pages
