@@ -15,48 +15,16 @@
 </head>
 
 <body class="{{ page.style }} {{ page.pageType }}">
-    <a class="switch-style color" href="/bw">
-        <div></div>
-        <div></div>
-    </a>
-    <a class="switch-style bw" href="/">
-        <div></div>
-        <div></div>
-    </a>
+    {% include switch.html %}
     <div class="wrapper">
         <header>
-            <a href="/"><h2>Keep going <br> Keep Safe</h2></a>
-            <h2>Keep going <br> Keep Safe</h2>
-            <h2>Keep going <br> Keep Safe</h2>
-            <span class="btn all-guides">
-                <a class="color" href="/guides">View Guides</a>
-                <a class="bw" href="/bw/guides">View Guides</a>
-            </span>
-            <ul class="guide-list">
-                <li class="btn">
-                    <a class="color" href="/guides/portland">View Portland Guide</a>
-                    <a class="bw" href="/bw/guides/portland">View Portland Guide</a>
-                </li>
-                <li class="btn">
-                    <a class="color" href="/guides/protestor_handbook">View Protestor Handbook</a>
-                    <a class="bw" href="/bw/guides/protestor_handbook">View Protestor Handbook</a>
-                </li>
-            </ul>
+            {%  include logo.html %}
         </header>
         <section>
 
             {{ content }}
 
-            <ul class="guide-list">
-                <li class="btn">
-                    <a class="color" href="/guides/portland">View Portland Guide</a>
-                    <a class="bw" href="/guides/bw/portland">View Portland Guide</a>
-                </li>
-                <li class="btn">
-                    <a class="color" href="/guides/protestor_handbook">View Protestor Handbook</a>
-                    <a class="bw" href="/guides/bw/protestor_handbook">View Protestor Handbook</a>
-                </li>
-            </ul>
+            {% include guideList.html %}
 
         </section>
         <footer>
