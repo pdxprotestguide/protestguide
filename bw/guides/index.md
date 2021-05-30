@@ -1,7 +1,7 @@
 ---
 layout: default
 pageType: landing
-style: color
+style: bw
 ---
 
 # Guides

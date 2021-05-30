@@ -1,6 +1,7 @@
 ---
 layout: default
 pageType: page
+style: bw
 ---
 
 ## Welcome to GitHub Pages

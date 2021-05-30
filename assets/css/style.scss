@@ -2,13 +2,285 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Bungee+Shade&display=swap');
 
-.color {
-    &.page {
-        background-color: rgb(251, 234, 251);
+$pink-bg: rgb(251, 234, 251);
+$pink-fg: rgb(236, 0, 140);
+$blue-fg: rgb(0, 154, 222);
+$blue-fg-60: rgba(0, 154, 222, .6);
+$green-fg: rgb(169, 207, 56);
+$purple-bg: rgb(74, 61, 84);
+$black: rgb(35, 31, 32);
+$white: rgb(255, 255, 255);
+
+a {
+    &:hover {
+        cursor: pointer;
+        font-weight: 400;
+        opacity: .6;
     }
 
-    &.landing {
-        background-color: rgb(251, 234, 251);
+    &.switch-style {
+        display: flex;
+        position: absolute;
+        right: 20px;
+        top: 20px;
+
+        div {
+            border-radius: 100%;
+            height: 15px;
+            width: 15px;
+
+            &:first-child {
+                background-color: $purple-bg;
+                margin-right: -5px;
+            }
+
+            &:last-child {
+                background-color: $pink-bg;
+            }
+        }
+    }
+
+    &.color {
+        display: none;
+    }
+}
+
+header ul {
+    background: none;
+    border: none;
+    width: auto;
+
+    li {
+        border: none;
+        float: none;
+        width: 270px;
+
+        + li {
+            margin-top: 10px;
+        }
+    }
+}
+
+.color {
+    .switch-style {
+        div {
+            &:first-child {
+                background-color: $white;
+            }
+
+            &:last-child {
+                background-color: $black;
+            }
+        }
+    }
+
+    a {
+        &.bw {
+            display: none;
+        }
+
+        &.color {
+            display: flex;
+        }
+    }
+}
+
+.btn {
+    a {
+        border: solid 2px $black;
+        border-radius: 0;
+        color: $black;
+        font-size: 16px;
+        font-family: 'Bungee Inline', sans-serif;
+        height: 16px;
+        line-height: 16px;
+        justify-content: center;
+        max-width: 270px;
+        opacity: 1;
+        padding: 8px;
+        text-transform: uppercase;
+
+        &:hover {
+            opacity: .6;
+            text-decoration: none;
+        }
+    }
+
+}
+
+
+.landing {
+    h1, h2 {
+        font-family: 'Bungee Inline', sans-serif;
+        text-align: center;
+        text-transform: uppercase;
+    }
+
+    h1 {
+        font-size: 48px;
+    }
+
+    h2 {
+        font-family: 'Bungee Shade', sans-serif;
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+
+    header {
+        li a {
+            border-radius: 0;
+        }
+
+        h2 {
+            margin-bottom: 0;
+            text-align: left;
+
+            &:nth-child(2) {
+                opacity: .6;
+            }
+
+            &:nth-child(3) {
+                margin-bottom: 40px;
+                opacity: .3;
+            }
+        }
+
+        .all-guides {
+            display: none;
+        }
+    }
+
+    section {
+        .guide-list {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            list-style: none;
+            padding: 0;
+
+            li + li {
+                margin-top: 20px;
+            }
+        }
+    }
+
+    &.color {
+        background-color: $purple-bg;;
+
+        header {
+            h2 {
+                color: $blue-fg;
+            }
+
+
+            .btn {
+                a {
+                    border: solid 2px $blue-fg;
+                    color: $blue-fg;
+                }
+            }
+        }
+
+        section {
+            h1, h2 {
+                color: $pink-fg;
+            }
+
+            p, ul {
+                color: $green-fg;
+            }
+        
+            ul {
+                .btn a {
+                    border-color: $pink-fg;
+                    color: $pink-fg;
+                }
+            }
+
+        }
+    }
+}
+
+@media print, screen and (max-width: 960px) {
+    .landing {
+        header {
+            display: flex;
+            justify-content: space-between;
+            padding-bottom: 40px;
+            padding-right: 0;
+
+            h2 {
+                display: none;
+                &:first-child {
+                    display: block;
+                }
+            }
+        }
+    }
+}
+
+@media print, screen and (max-width: 960px) {
+    .landing {
+        section {
+            padding-top: 40px;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            padding-bottom: 40px;
+            padding-right: 0;
+
+            h2 {
+                display: none;
+                &:first-child {
+                    display: block;
+                }
+            }
+
+            .all-guides {
+                display: block;
+            }
+
+            .guide-list {
+                display: none;
+            }
+        }
+    }
+}
+
+@media print, screen and (max-width: 530px) {
+    .landing {
+        h1 {
+            font-size: 30px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+        
+        section {
+            padding-top: 20px;
+        }
+
+        header {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding-bottom: 20px;
+            padding-right: 0;
+
+            h2 {
+                display: none;
+
+                &:first-child {
+                    display: block;
+                    margin-bottom: 20px;
+                }
+            }
+        }
     }
 }

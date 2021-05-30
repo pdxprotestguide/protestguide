@@ -8,18 +8,55 @@
 
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <title>Portland Protest Guide</title>
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 </head>
 
 <body class="{{ page.style }} {{ page.pageType }}">
+    <a class="switch-style color" href="/bw">
+        <div></div>
+        <div></div>
+    </a>
+    <a class="switch-style bw" href="/">
+        <div></div>
+        <div></div>
+    </a>
     <div class="wrapper">
         <header>
+            <a href="/"><h2>Keep going <br> Keep Safe</h2></a>
+            <h2>Keep going <br> Keep Safe</h2>
+            <h2>Keep going <br> Keep Safe</h2>
+            <span class="btn all-guides">
+                <a class="color" href="/guides">View Guides</a>
+                <a class="bw" href="/bw/guides">View Guides</a>
+            </span>
+            <ul class="guide-list">
+                <li class="btn">
+                    <a class="color" href="/guides/portland">View Portland Guide</a>
+                    <a class="bw" href="/bw/guides/portland">View Portland Guide</a>
+                </li>
+                <li class="btn">
+                    <a class="color" href="/guides/protestor_handbook">View Protestor Handbook</a>
+                    <a class="bw" href="/bw/guides/protestor_handbook">View Protestor Handbook</a>
+                </li>
+            </ul>
         </header>
         <section>
 
             {{ content }}
+
+            <ul class="guide-list">
+                <li class="btn">
+                    <a class="color" href="/guides/portland">View Portland Guide</a>
+                    <a class="bw" href="/guides/bw/portland">View Portland Guide</a>
+                </li>
+                <li class="btn">
+                    <a class="color" href="/guides/protestor_handbook">View Protestor Handbook</a>
+                    <a class="bw" href="/guides/bw/protestor_handbook">View Protestor Handbook</a>
+                </li>
+            </ul>
 
         </section>
         <footer>
