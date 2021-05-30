@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 pageType: page
 style: color
+switchTo: '/bw/protestor_handbook'
 ---
 
 ## Welcome to GitHub Pages

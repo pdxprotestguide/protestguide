@@ -12,6 +12,27 @@ $green-fg: rgb(169, 207, 56);
 $purple-bg: rgb(74, 61, 84);
 $black: rgb(35, 31, 32);
 $white: rgb(255, 255, 255);
+$grey: rgb(229, 229, 229);
+
+/* * * * * * * * * * * * * * * */
+/* * * * * GENERAL * * * * * * */
+/* * * * * * * * * * * * * * * */
+
+h1, h2 {
+    font-family: 'Bungee Inline', sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+h2 {
+    font-family: 'Bungee Shade', sans-serif;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
 
 a {
     display: flex;
@@ -71,6 +92,31 @@ header ul {
     }
 }
 
+header {
+    h2 {
+        margin-bottom: 0;
+        text-align: left;
+
+        &:nth-child(2) {
+            opacity: .6;
+        }
+
+        &:nth-child(3) {
+            margin-bottom: 40px;
+            opacity: .3;
+        }
+    }
+}
+
+section {
+    ul {
+        li + li {
+            margin-top: 5px;
+        }
+    }
+}
+
+
 .color {
     .switch-style {
         div {
@@ -80,6 +126,20 @@ header ul {
 
             &:last-child {
                 background-color: $black;
+            }
+        }
+    }
+
+    header {
+        h2 {
+            color: $blue-fg;
+        }
+
+
+        .btn {
+            a {
+                border: solid 2px $blue-fg;
+                color: $blue-fg;
             }
         }
     }
@@ -118,41 +178,14 @@ header ul {
 
 }
 
+/* * * * * * * * * * * * * * * */
+/* * * * LANDING PAGE  * * * * */
+/* * * * * * * * * * * * * * * */
 
 .landing {
-    h1, h2 {
-        font-family: 'Bungee Inline', sans-serif;
-        text-align: center;
-        text-transform: uppercase;
-    }
-
-    h1 {
-        font-size: 48px;
-    }
-
-    h2 {
-        font-family: 'Bungee Shade', sans-serif;
-        font-size: 30px;
-        margin-bottom: 40px;
-    }
-
     header {
         li a {
             border-radius: 0;
-        }
-
-        h2 {
-            margin-bottom: 0;
-            text-align: left;
-
-            &:nth-child(2) {
-                opacity: .6;
-            }
-
-            &:nth-child(3) {
-                margin-bottom: 40px;
-                opacity: .3;
-            }
         }
 
         .all-guides {
@@ -161,6 +194,10 @@ header ul {
     }
 
     section {
+        h2 {
+            margin-bottom: 40px;
+        }
+
         .guide-list {
             align-items: center;
             display: flex;
@@ -177,20 +214,6 @@ header ul {
 
     &.color {
         background-color: $purple-bg;;
-
-        header {
-            h2 {
-                color: $blue-fg;
-            }
-
-
-            .btn {
-                a {
-                    border: solid 2px $blue-fg;
-                    color: $blue-fg;
-                }
-            }
-        }
 
         section {
             h1, h2 {
@@ -212,66 +235,255 @@ header ul {
     }
 }
 
+/* * * * * * * * * * * * * * * */
+/* * * * * * * TOC * * * * * * */
+/* * * * * * * * * * * * * * * */
+
+.toc {
+    h3 {
+        font-family: 'Bungee Inline', sans-serif;
+        text-transform: uppercase;
+    }
+
+    ol {
+        padding-left: 10px;
+    
+        li {
+            border: none;
+            float: none;
+            height: auto;
+            width: 225px;
+        }
+    }
+}
+
+.color .toc {
+    h3,
+    ol {
+        color: $pink-fg;
+
+        a li {
+            color: $pink-fg;
+        }
+    }
+}
+
+/* * * * * * * * * * * * * * * */
+/* * * * * CHECKLIST * * * * * */
+/* * * * * * * * * * * * * * * */
+
+.checklist-before {
+    list-style-type: circle;
+}
+
+table {
+    tbody {
+        vertical-align: text-top;
+    }
+
+    td {
+        font-weight: 600;
+
+        ul {
+            font-weight: 400;
+            padding-left: 18px;
+        }
+
+        &:nth-child(2) {
+            border-left: solid 1px $grey;
+            border-right: solid 1px $grey;
+        }
+    }
+
+    tr {
+        &:first-child {
+            font-size: 16px;
+            font-weight: 600;
+        }
+
+        &:last-child td {
+            border-bottom: none;
+        }
+    }
+}
+
+.color {
+    table {
+        border-color: $blue-fg;
+    }
+
+    td {
+        color: $blue-fg;
+        border-color: $blue-fg;
+
+
+        &:nth-child(2) {
+            border-color: $blue-fg;
+        }
+    }
+
+    tr {
+        &:first-child {
+            color: $blue-fg;
+        }
+    }
+}
+
+.checklist-list {
+    display: none;
+    font-size: 16px;
+    font-weight: 600;
+    list-style: none;
+    padding: 0;
+
+    ul {
+        border-top: solid 1px $grey;
+        font-size: 14px;
+        font-weight: 400;
+        list-style-type: disc;
+        margin-top: 10px;
+        padding-top: 10px;
+    }
+}
+
+.color .checklist-list {
+    color: $blue-fg;
+
+    ul {
+        border-color: $blue-fg;
+        color: $black;
+    }
+}
+
+.asterik {
+    font-size: 12px;
+}
+
+
+/* * * * * * * * * * * * * * * */
+/* * * * GUIDE PAGES * * * * * */
+/* * * * * * * * * * * * * * * */
+
+.page {
+    p, ul {
+        color: $black;
+    }
+
+    &.color {
+        background-color: $pink-bg;
+
+        section {
+            h1, h2, h3 {
+                color: $pink-fg;
+            }
+        }
+    }
+}
+
+
+/* * * * * * * * * * * * * * * */
+/* * * * MEDIA QUERIES * * * * */
+/* * * * * * * * * * * * * * * */
+@media print, screen and (min-width: 960px) {
+    .page {
+        section {
+            width: 600px;
+        }
+    }
+}
+
 @media print, screen and (max-width: 960px) {
+    header {
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 40px;
+        padding-right: 0;
+
+        h2 {
+            display: none;
+            &:first-child {
+                display: block;
+            }
+        }
+
+        .all-guides {
+            display: block;
+        }
+
+        .guide-list {
+            display: none;
+        }
+    }
+
     .landing {
         section {
             padding-top: 40px;
         }
+    }
 
+    .page {
         header {
+            padding-bottom: 10px;
+        }
+
+        .checklist-list {
+            display: block;
+        }
+
+        table {
+            display: none;
+        }
+    }
+
+    .toc {
+        display: flex;
+        flex-flow: column;
+        width: 350px;
+
+        ol {
             display: flex;
-            justify-content: space-between;
-            padding-bottom: 40px;
-            padding-right: 0;
-
-            h2 {
-                display: none;
-                &:first-child {
-                    display: block;
-                }
-            }
-
-            .all-guides {
-                display: block;
-            }
-
-            .guide-list {
-                display: none;
+            flex-flow: column wrap;
+            height: 100px;
+            margin-bottom: 0;
+            
+            a li {
+                max-width: 160px;
+                width: fit-content;
             }
         }
     }
 }
 
 @media print, screen and (max-width: 530px) {
-    .landing {
-        h1 {
-            font-size: 30px;
-        }
+    header {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        padding-bottom: 20px;
+        padding-right: 0;
 
         h2 {
-            font-size: 20px;
-            margin-bottom: 20px;
+            display: none;
+
+            &:first-child {
+                display: block;
+                margin-bottom: 20px;
+            }
         }
-        
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    h2 {
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    .landing {    
         section {
             padding-top: 20px;
-        }
-
-        header {
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-            padding-bottom: 20px;
-            padding-right: 0;
-
-            h2 {
-                display: none;
-
-                &:first-child {
-                    display: block;
-                    margin-bottom: 20px;
-                }
-            }
         }
     }
 }

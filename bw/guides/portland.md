@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: page
 pageType: page
 style: bw
+switchTo: '/guides/portland'
 ---
 
 ## Welcome to GitHub Pages

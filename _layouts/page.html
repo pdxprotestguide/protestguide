@@ -16,16 +16,15 @@
 
 <body class="{{ page.style }} {{ page.pageType }}">
     {% include switch.html %}
+
     <div class="wrapper">
         <header>
-            {%  include logo.html %}
+            {% include logo.html %}
+            {% include toc.html %}
         </header>
         <section>
-
+            {% include checklist.html %}
             {{ content }}
-
-            {% include guideList.html %}
-
         </section>
         {% include footer.html %}
     </div>
