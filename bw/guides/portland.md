@@ -3,6 +3,7 @@ layout: page
 pageType: page
 style: bw
 switchTo: '/guides/portland'
+isLocal: true
 ---
 
 ## Welcome to GitHub Pages
