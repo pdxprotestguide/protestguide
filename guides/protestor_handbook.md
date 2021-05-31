@@ -191,7 +191,7 @@ If you have not been trained on how to use a particular item in an IFAK, find a 
 
 - Call for a medic and alert emergency services by calling 911.
 
-- Do not move the injured person. This could cause further injury and should be left to those with the proper medical training. If you must move someone because there is a greater risk of injury from staying in the current location (from munitions, a running crowd, etc) work with others and make sure that the head and neck are supported at all times.
+- **Do not move the injured person.** This could cause further injury and should be left to those with the proper medical training. If you must move someone because there is a greater risk of injury from staying in the current location (from munitions, a running crowd, etc) work with others and make sure that the head and neck are supported at all times.
 
 - If someone is bleeding heavily, apply pressure to the wound to help prevent blood loss until a medic can relieve you. Once medics are onsite, let them provide assessment and treatment. In most cases, the best thing you can do for someone is help them get care by a trained responder.
 
