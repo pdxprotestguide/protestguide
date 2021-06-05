@@ -3,7 +3,7 @@ layout: page
 pageType: page
 style: color
 baseURL: '/protestguide/guides/protestor_handbook/'
-switchTo: '/protestguide/bw/guides/protestor_handbook/laws/'
+switchTo: '/protestguide/bw/guides/protestor_handbook/laws'
 isLocal: false
 prev: 'police_tactics'
 prevTitle: 'Police Tactics'

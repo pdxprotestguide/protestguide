@@ -3,7 +3,7 @@ layout: page
 pageType: page
 style: color
 baseURL: '/protestguide/guides/protestor_handbook/'
-switchTo: '/protestguide/bw/guides/protestor_handbook/protestors_rights/'
+switchTo: '/protestguide/bw/guides/protestor_handbook/protestors_rights'
 isLocal: false
 next: 'in_case_of_arrest'
 nextTitle: 'In Case of Arrest'

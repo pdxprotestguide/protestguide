@@ -3,7 +3,7 @@ layout: page
 pageType: page
 style: bw
 baseURL: '/protestguide/bw/guides/portland/'
-switchTo: '/protestguide/guides/portland/legal_codes/'
+switchTo: '/protestguide/guides/portland/legal_codes'
 isLocal: true
 prev: 'maps'
 prevTitle: 'Maps'
