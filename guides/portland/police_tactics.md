@@ -2,8 +2,8 @@
 layout: page
 pageType: page
 style: color
-baseURL: '/guides/portland/'
-switchTo: '/bw/guides/portland/police_tactics'
+baseURL: '/protestguide/guides/portland/'
+switchTo: '/protestguide/bw/guides/portland/police_tactics/'
 isLocal: true
 prev: 'basic_first_aid'
 prevTitle: 'Basic First Aid'

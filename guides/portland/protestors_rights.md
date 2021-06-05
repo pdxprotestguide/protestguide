@@ -2,8 +2,8 @@
 layout: page
 pageType: page
 style: color
-baseURL: '/guides/portland/'
-switchTo: '/bw/guides/portland/protestors_rights'
+baseURL: '/protestguide/guides/portland/'
+switchTo: '/protestguide/bw/guides/portland/protestors_rights/'
 isLocal: true
 next: 'in_case_of_arrest'
 nextTitle: 'In Case of Arrest'

@@ -2,8 +2,8 @@
 layout: page
 pageType: page
 style: bw
-baseURL: '/bw/guides/protestor_handbook/'
-switchTo: '/guides/protestor_handbook/laws'
+baseURL: '/protestguide/bw/guides/protestor_handbook/'
+switchTo: '/protestguide/guides/protestor_handbook/laws/'
 isLocal: false
 prev: 'police_tactics'
 prevTitle: 'Police Tactics'

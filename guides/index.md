@@ -2,7 +2,7 @@
 layout: list
 pageType: landing
 style: color
-switchTo: '/bw/guides'
+switchTo: '/protestguide/bw/guides/'
 ---
 
 # Guides

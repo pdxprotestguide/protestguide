@@ -2,8 +2,8 @@
 layout: page
 pageType: page
 style: color
-baseURL: '/guides/portland/'
-switchTo: '/bw/guides/portland/basic_first_aid'
+baseURL: '/protestguide/guides/portland/'
+switchTo: '/protestguide/bw/guides/portland/basic_first_aid/'
 isLocal: true
 prev: 'in_case_of_arrest'
 prevTitle: 'In case of arrest'

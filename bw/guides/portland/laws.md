@@ -2,8 +2,8 @@
 layout: page
 pageType: page
 style: bw
-baseURL: '/bw/guides/portland/'
-switchTo: '/guides/portland/laws'
+baseURL: '/protestguide/bw/guides/portland/'
+switchTo: '/protestguide/guides/portland/laws/'
 isLocal: true
 prev: 'police_tactics'
 prevTitle: 'Police Tactics'

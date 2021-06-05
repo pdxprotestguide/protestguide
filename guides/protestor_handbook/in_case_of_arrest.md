@@ -2,8 +2,8 @@
 layout: page
 pageType: page
 style: color
-baseURL: '/guides/protestor_handbook/'
-switchTo: '/bw/guides/protestor_handbook/in_case_of_arrest'
+baseURL: '/protestguide/guides/protestor_handbook/'
+switchTo: '/protestguide/bw/guides/protestor_handbook/in_case_of_arrest/'
 isLocal: false
 next: 'basic_first_aid'
 nextTitle: 'Basic First Aid'

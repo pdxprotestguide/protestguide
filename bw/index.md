@@ -2,7 +2,7 @@
 layout: landing
 pageType: landing
 style: bw
-switchTo: '/'
+switchTo: '/protestguide/'
 ---
 
 # Because Black Lives Matter
