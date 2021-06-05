@@ -210,6 +210,13 @@ section {
 
 }
 
+footer {
+    p {
+        line-height: 12px;
+        margin: 0;
+    }
+}
+
 /* * * * * * * * * * * * * * * */
 /* * * * LANDING PAGE  * * * * */
 /* * * * * * * * * * * * * * * */
@@ -499,6 +506,10 @@ table {
         section {
             width: 600px;
         }
+    }
+
+    footer {
+        max-width: 200px;
     }
 }
 
