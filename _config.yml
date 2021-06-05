@@ -22,7 +22,8 @@ title: Protest Guide
 description: >- # this means to ignore newlines until "baseurl:"
   Rights, first aid, safety, tactics, and other resources for protesters in Portland and beyond.
 baseurl: "/protestguide"
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pdxprotestguide.github.io"
+root: "protestguide"
 
 # Build settings
 theme: jekyll-theme-minimal
