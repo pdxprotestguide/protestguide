@@ -1,0 +1,12 @@
+<div class="section-nav next-{{ page.nextTitle }} prev-{{ page.prevTitle }}">
+    {% if page.prev %}
+    <span class="btn prev">
+        <a href="{{ page.baseURL }}{{ page.prev }}">&#8592; &nbsp; {{ page.prevTitle }}</a>
+    </span>
+    {% endif %}
+    {% if page.next %}
+    <span class="btn next">
+        <a href="{{ page.baseURL }}{{ page.next }}">{{ page.nextTitle }} &nbsp; &#8594;</a>
+    </span>
+    {% endif %}
+</div>

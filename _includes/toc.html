@@ -1,15 +1,15 @@
 <div class="toc">
     <h3>Jump To...</h3>
     <ol class="is-local-{{ page.isLocal }}">
-        <a href="#before_you_go"><li>Before You Go Checklist</li></a>
-        <a href="#protestors-rights"><li>Protestors' Rights</li></a>
-        <a href="#in-case-of-arrest"><li>In Case of Arrest</li></a>
-        <a href="#basic-first-aid"><li>Basic First Aid</li></a>
-        <a href="#common-police-tactics"><li>Common Police Tactics</li></a>
-        <a href="#relevant-laws"><li>Relevant Laws</li></a>
+        <a href="{{ page.baseURL }}checklist"><li>Before You Go Checklist</li></a>
+        <a href="{{ page.baseURL }}protestors_rights"><li>Protestors' Rights</li></a>
+        <a href="{{ page.baseURL }}in_case_of_arrest"><li>In Case of Arrest</li></a>
+        <a href="{{ page.baseURL }}basic_first_aid"><li>Basic First Aid</li></a>
+        <a href="{{ page.baseURL }}police_tactics"><li>Common Police Tactics</li></a>
+        <a href="{{ page.baseURL }}laws"><li>Relevant Laws</li></a>
         {% if page.isLocal %}
-        <a href="#maps"><li>Maps</li></a>
-        <a href="#full-legal-codes"><li>Full Legal Codes</li></a>
+        <a href="{{ page.baseURL }}maps"><li>Maps</li></a>
+        <a href="{{ page.baseURL }}legal_codes"><li>Full Legal Codes</li></a>
         {% endif %}
     </ol>
 </div>
