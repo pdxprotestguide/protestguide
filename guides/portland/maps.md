@@ -17,22 +17,22 @@ nextTitle: 'Full Legal Codes'
 
 _These maps show the location of local police buildings, federal buildings, landmarks, hospitals, and public gathering spots that are most relevant to protesters._
 
-![Central Portland](/assets/images/Central.png)
+![Central Portland]({{ url }}/protestguide/assets/images/Central.png)
 
-![Northeast Portland](/assets/images/Northeast.png)
+![Northeast Portland]({{ url }}/protestguide/assets/images/Northeast.png)
 
-![North Portland](/assets/images/North.png)
+![North Portland]({{ url }}/protestguide/assets/images/North.png)
 
-![East Portland](/assets/images/East.png)
+![East Portland]({{ url }}/protestguide/assets/images/East.png)
 
 ### Don't Get Kettled maps
 
 _These maps show the safest egress routes around common protest locations._
 
-![Portland Police Association](/assets/images/PPA.jpg)
+![Portland Police Association]({{ url }}/protestguide/assets/images/PPA.jpg)
 
-![North Precinct](/assets/images/NPrecinct.jpg)
+![North Precinct]({{ url }}/protestguide/assets/images/NPrecinct.jpg)
 
-![Mulnomah County Sheriff's Office](/assets/images/MCSO.jpg)
+![Mulnomah County Sheriff's Office]({{ url }}/protestguide/assets/images/MCSO.jpg)
 
-![ICE](/assets/images/ICE.jpg)
+![ICE]({{ url }}/protestguide/assets/images/ICE.jpg)
