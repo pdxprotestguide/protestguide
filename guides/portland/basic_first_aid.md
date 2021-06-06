@@ -11,11 +11,11 @@ next: 'police_tactics'
 nextTitle: 'Police Tactics'
 ---
 
-# Basic First Aid
+# Basic First Aid For Protests
 
 _The information in this section has been gathered from on-the-ground experience with advice from local street medics about how to practice basic riot medicine._
 
-### Local medic groups
+### Local street medic groups
 
 Local medic groups are present at most protest events. These are groups of protesters who are specifically trained and equipped to deal with protest-related injuries. Members of these groups are a mix of medical professionals, medical students, emergency responders, and others who have received specific first aid training. When in doubt, find a medic or medical professional before attempting to treat an injury.
 
