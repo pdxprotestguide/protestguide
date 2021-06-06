@@ -11,7 +11,7 @@ prev: 'protestors_rights'
 prevTitle: "Protestors' Rights"
 ---
 
-# In Case of Arrest
+# What To Do If You Are Arrested At A Protest
 
 _The information in this section is collected from the [ACLU Protesters’ Rights page](https://www.aclu.org/know-your-rights/protesters-rights/), The Black Panther Party Pocket Lawyer pamphlet, and first hand accounts of local Portland protesters._
 
@@ -33,7 +33,7 @@ _The information in this section is collected from the [ACLU Protesters’ Right
 
 - Know that protest related arrests do not always occur at the event itself. Warrants can be issued after the fact and may not be executed for weeks or months after a specific protest.
 
-### Your rights
+### Your rights if you are arrested at a protest
 
 - Stay calm. Make sure to keep your hands visible. Don’t argue, resist, or obstruct the police, even if you believe they are violating your rights. Point out that you are not disrupting anyone else’s activity and that the First Amendment protects your actions.
 
@@ -54,7 +54,7 @@ _The information in this section is collected from the [ACLU Protesters’ Right
 - Police have no right to search your car or your home unless they have a search warrant, probable cause, or your consent. They may conduct no exploratory search, that is, one for evidence of a crime generally or for evidence of a crime unconnected with the one you are being questioned about. Thus, a stop for an automobile violation does not give the police the right to search the automobile. You are not required to consent to a search; therefore, you should not consent and should state clearly and unequivocally that you do not consent, in front of witnesses if possible. If you do not consent, the police will have the burden in court of showing probable cause.
 
 		
-### While in Custody
+### While To Do While In Police Custody
 
 - Police may or may not tell you that you are under arrest before physically grabbing and arresting you. Officers will likely be forceful with you.
 
