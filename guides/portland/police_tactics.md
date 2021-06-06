@@ -27,7 +27,7 @@ On rare occasions, PPB has completely surrounded crowds to prevent them from mov
 
 Note that if you are kettled by police and are detained, but not arrested, you are not required to show your ID or give other information. However, if you refuse to give this information you may be more likely to be arrested.
 
-### Impact munitions used by law enforcement at protests
+### Impact munitions
 
 Law enforcement often uses various types of impact munitions as a legal means of violence to disperse protestors. These munitions may include powder balls, rubber bullets, rubber buckshot, bean bags, FN303 marking rounds, or plastic batons. The rubber buckshot and FN303 marking rounds are hybrid chemical weapons. The rubber buckshot is sometimes coated in CS (see section C for more detailed information on chemical weapon usage). The FN303 marking rounds contain bismuth shards, which can lead to heavy metal toxicity.
 
@@ -40,7 +40,7 @@ The use of chemical weapons on human beings in the setting of warfare has been o
 
 #### Tear gas
 
-Tear gasses and smokes are used to temporarily cause irritation to the eyes, mouth, throat, lungs, and skin. Federal and local LEOs both deploy tear gas.
+Tear gasses and smokes are used to temporarily cause irritation to the eyes, mouth, throat, lungs, and skin. Federal and local LEOs both deploy tear gas to disperse protests.
 
 Exposure to tear gas can make it difficult for you to see and make you feel like you’re unable to breathe normally, which can cause confusion, panic, and psychological distress in addition to intense physical pain. Covering your eyes with goggles, wearing long sleeves and pants, and using a respirator with acid/vapor rated filters or gas masks are the best strategies to avoid debilitating exposure.
 
