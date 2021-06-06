@@ -237,6 +237,11 @@ footer {
             margin-bottom: 40px;
         }
 
+        p a {
+            color: $green-fg;
+            text-decoration: underline;
+        }
+
         .guide-list {
             align-items: center;
             display: flex;

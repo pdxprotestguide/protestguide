@@ -21,7 +21,8 @@ Please share this guide where you live to help build and strengthen your local p
 
 Stay sexy, stay safe, and stay dangerous. Be water. Get in good and necessary trouble for the things you believe in.
 
-Portland, OR, traditional village sites of the Multnomah, Wasco, Cowlitz, Kathlamet, Clackamas, Bands of Chinook, Tualatin, Kalapuya, Molalla, and many other tribes
+[Portland, OR](/protestguide/bw/land_acknowledgement)
+Traditional village sites of the Multnomah, Wasco, Cowlitz, Kathlamet, Clackamas, Bands of Chinook, Tualatin, Kalapuya, Molalla, and many other tribes
 
 Spring 2021
 

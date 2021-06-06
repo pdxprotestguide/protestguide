@@ -21,7 +21,7 @@
 title: Protest Guide
 description: >- # this means to ignore newlines until "baseurl:"
   Rights, first aid, safety, tactics, and other resources for protesters in Portland and beyond.
-baseurl: "protestguide"
+baseurl: "/protestguide"
 url: "https://pdxprotestguide.github.io"
 root_url: "protestguide"
 
