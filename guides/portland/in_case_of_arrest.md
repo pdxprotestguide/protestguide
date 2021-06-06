@@ -54,7 +54,7 @@ _The information in this section is collected from the [ACLU Protesters’ Right
 - Police have no right to search your car or your home unless they have a search warrant, probable cause, or your consent. They may conduct no exploratory search, that is, one for evidence of a crime generally or for evidence of a crime unconnected with the one you are being questioned about. Thus, a stop for an automobile violation does not give the police the right to search the automobile. You are not required to consent to a search; therefore, you should not consent and should state clearly and unequivocally that you do not consent, in front of witnesses if possible. If you do not consent, the police will have the burden in court of showing probable cause.
 
 		
-### While To Do While In Police Custody
+### What you should do while in police custody
 
 - Police may or may not tell you that you are under arrest before physically grabbing and arresting you. Officers will likely be forceful with you.
 
