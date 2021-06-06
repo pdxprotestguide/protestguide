@@ -260,7 +260,6 @@ footer {
         }
 
         p a {
-            color: $green-fg;
             text-decoration: underline;
         }
 
@@ -279,7 +278,7 @@ footer {
     }
 
     &.color {
-        background-color: $purple-bg;;
+        background-color: $purple-bg;
 
         section {
             h1, h2 {
@@ -287,6 +286,10 @@ footer {
             }
 
             p, ul {
+                color: $green-fg;
+            }
+
+            p a {
                 color: $green-fg;
             }
         
