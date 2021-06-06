@@ -11,7 +11,7 @@ next: 'laws'
 nextTitle: 'Relevant Laws'
 ---
 
-# Common Police Tactics
+# Police Tactics, Impact Munitions, & Chemical Weapons
 
 _The information in this section has been gathered from on the ground experience as well as the [Chemical Weapons Research Consortium](https://www.chemicalweaponsresearch.com/), a local Portland group focused on understanding the impact of chemical weapons used by law enforcement on humans and the environment._
 
@@ -21,13 +21,13 @@ Law enforcement responses vary widely from department to department. City police
 
 Kettling is a trap technique where law enforcement officers will strategically herd a crowd of protestors down streets into a dead end or to an area where there are other law enforcement officers (LEOs) staged and ready to make mass arrests.
 
-You can avoid kettling by being aware of your surroundings, the streets you are traveling, and how officers are moving. Don’t Get Kettled maps have been made for several common protest locations and show the safest routes that allow multiple options for egress. See the Maps section for Don’t Get Kettled maps for common Portland protest locations.
+You can avoid kettling by being aware of your surroundings, the streets you are traveling, and communicating with other protestors on the ground about how officers are moving. Don’t Get Kettled maps have been made for several common protest locations and show the safest routes that allow multiple options for egress. See the Maps section for Don’t Get Kettled maps for common Portland protest locations. Strategically placing scouts in the area around a protest who can keep an eye out for law enforcement movements and staging so that they can notifiy protestors about these activities via radio can help prevent protestors from being ambushed, kettled, and then mass arrested by law enforcement.
 
 On rare occasions, PPB has completely surrounded crowds to prevent them from moving or to detain or arrest protestors. In other situations, police have blocked the path of the crowd in only one direction in attempts to prevent them from reaching a specific destination.
 
 Note that if you are kettled by police and are detained, but not arrested, you are not required to show your ID or give other information. However, if you refuse to give this information you may be more likely to be arrested.
 
-### Impact munitions
+### Impact munitions used by law enforcement at protests
 
 Law enforcement often uses various types of impact munitions as a legal means of violence to disperse protestors. These munitions may include powder balls, rubber bullets, rubber buckshot, bean bags, FN303 marking rounds, or plastic batons. The rubber buckshot and FN303 marking rounds are hybrid chemical weapons. The rubber buckshot is sometimes coated in CS (see section C for more detailed information on chemical weapon usage). The FN303 marking rounds contain bismuth shards, which can lead to heavy metal toxicity.
 
@@ -64,7 +64,7 @@ Federal agents from DHS and BORTAC have deployed HC grenades in 2020 and 2021 in
 Unfortunately there is little short of a closed breathing apparatus and full body Tyvek for personal protection again HC grenades.
 
 
-#### Treating Exposure to Tear Gas and other irritants
+#### How to treat someone exposed to tear gas and other irritants
 
 - Rinse eyes with plain water or saline while blinking to restore vision.
 
