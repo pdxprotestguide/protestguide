@@ -13,13 +13,13 @@ nextTitle: 'Police Tactics'
 
 # Basic First Aid
 
-_The information in this section has been gathered from on the ground experience with advice from local medics._
+_The information in this section has been gathered from on-the-ground experience with advice from local street medics about how to practice basic riot medicine._
 
 ### Local medic groups
 
 Local medic groups are present at most protest events. These are groups of protesters who are specifically trained and equipped to deal with protest-related injuries. Members of these groups are a mix of medical professionals, medical students, emergency responders, and others who have received specific first aid training. When in doubt, find a medic or medical professional before attempting to treat an injury.
 
-Medics on the ground are marked with a red cross, usually created from tape, on their clothing, backpack, or helmet. To get medical attention for someone try yelling “Medic!” and waving your hands to indicate where the medic is needed. If you are boosting a call for a medic to the larger crowd include a location if possible. For example, “Medic! Front of march!” or “Medic! 4th and Main!”
+Street medics are marked with a red cross, usually created from tape, on their clothing, backpack, or helmet. To get medical attention for someone try yelling “Medic!” and waving your hands to indicate where the medic is needed. If you are boosting a call for a medic to the larger crowd include a location if possible. For example, “Medic! Front of march!” or “Medic! 4th and Main!”
 
 
 ### Suggested first aid supplies
@@ -41,12 +41,12 @@ Consider taking basic first aid supplies with you as part of your standard prote
 
 ### Individual first aid kits (IFAKs)
 
-It is recommended that protestors carry an IFAK with them at all events, even if it seems low risk. These are more robust first aid kits designed to help first responders treat traumatic injuries, such as a gunshot wound or major bleeding, and usually contain supplies like tourniquets and chest seals. These kits are called “individual” because they are made to be used on the person who is carrying the kit by first responders and contain limited supplies. IFAKs usually come in small pouches that can be attached to a larger bag or carrying rig for quick access. The pouches are often marked by small velcro patches that may have a red cross or say things like “Bleeding Control.”
+It is recommended that protestors carry an IFAK with them at all events, even if it seems low risk. These are more robust first aid kits designed to help first responders treat traumatic injuries, such as a gunshot wound or major bleeding, and usually contain supplies like tourniquets and chest seals. These kits are called “individual” because they are made to be used on the person who is carrying the kit by first responders and contain limited supplies. IFAKs usually come in small pouches that can be attached to a larger bag or carrying rig for quick access. The pouches are often marked by small velcro patches that may have a red cross or patches labeled “Bleeding Control.”
 
-If you have not been trained on how to use a particular item in an IFAK, find a medic or medical professional before attempting to treat an injury. Your local medic group or Red Cross may offer training sessions on how to administer first aid for more severe injuries. Refresh this knowledge often. If you need help funding or sourcing an IFAK there may be local mutual aid groups that can help.
+If you have not been trained on how to use a particular item in an IFAK, find a medic or medical professional before attempting to treat an injury. Your local street medic group or Red Cross may offer training sessions on how to administer first aid for more severe injuries. Refresh this knowledge often. If you need help funding or sourcing an IFAK there may be local mutual aid groups that can help.
 
 
-### What to do if you suffer a minor injury
+### What to do if you suffer a minor injury at a protest
 
 - Stay calm. Tear gas exposure can be particularly disorienting and cause panic. Know that this is a temporary experience.
 
@@ -61,7 +61,7 @@ If you have not been trained on how to use a particular item in an IFAK, find a 
 - Assess how you feel and wether or not you should continue protesting. Find a safe way home or to a medical professional if necessary.
 
 
-### What to do if someone else suffers a severe injury
+### What to do if someone else suffers a severe injury at a protest
 
 - Stay calm. Witnessing someone being severely injured can be scary and can cause a fight-flight-freeze response.
 
