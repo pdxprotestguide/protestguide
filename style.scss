@@ -185,6 +185,14 @@ section {
             }
         }
     }
+
+    footer {
+        strong,
+        svg {
+            color: $green-fg;
+            fill: $green-fg;
+        }
+    }
 }
 
 .btn {
@@ -214,6 +222,20 @@ footer {
     p {
         line-height: 12px;
         margin: 0;
+
+        + p {
+            margin: 10px 0;
+        }
+    }
+
+    ul {
+        display: flex;
+        list-style: none;
+        padding: 0;
+
+        li + li {
+            margin-left: 10px;
+        }
     }
 }
 
