@@ -13,6 +13,8 @@ prevTitle: "Protestors' Rights"
 
 # In case of arrest
 
+[Download as PDF](https://gateway.pinata.cloud/ipfs/QmWEhsvrt55TNZzvpJK1RLAVrs1H1tTyL9b887rNfZhf8E)
+
 _The information in this section is collected from the [ACLU Protesters’ Rights page](https://www.aclu.org/know-your-rights/protesters-rights/), The Black Panther Party Pocket Lawyer pamphlet, and first hand accounts of local Portland protesters._
 
 

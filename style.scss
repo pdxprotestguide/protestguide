@@ -188,6 +188,7 @@ section {
 
     footer {
         strong,
+        a,
         svg {
             color: $green-fg;
             fill: $green-fg;
@@ -236,6 +237,10 @@ footer {
         li + li {
             margin-left: 10px;
         }
+    }
+
+    a {
+        text-decoration: underline;
     }
 }
 
@@ -455,7 +460,8 @@ table {
             margin: 40px 0;
         }
 
-        h1 + p {
+        h1 + p,
+        h1 + p + p {
             margin-top: -10px;
             text-align: center;
         }
@@ -617,7 +623,7 @@ table {
             display: flex;
             flex-flow: column wrap;
             font-size: 13px;
-            height: 80px;
+            height: 100px;
             margin-bottom: 0;
             
             a li {
@@ -626,7 +632,7 @@ table {
             }
 
             &.is-local-false {
-                height: 70px;
+                height: 80px;
             }
         }
     }

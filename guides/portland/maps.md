@@ -13,6 +13,8 @@ nextTitle: 'Full Legal Codes'
 
 # Maps
 
+[Download as PDF](https://gateway.pinata.cloud/ipfs/QmRNFTKHPj6uNPsHWWGNRw3T4x2ksx1PEjRZWRioQyL3bw)
+
 ### Maps of Portland
 
 _These maps show the location of local police buildings, federal buildings, landmarks, hospitals, and public gathering spots that are most relevant to protesters._

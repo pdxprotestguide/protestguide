@@ -13,6 +13,8 @@ nextTitle: 'Relevant Laws'
 
 # Police Tactics, Impact Munitions, & Chemical Weapons
 
+[Download as PDF](https://gateway.pinata.cloud/ipfs/QmRNFTKHPj6uNPsHWWGNRw3T4x2ksx1PEjRZWRioQyL3bw)
+
 _The information in this section has been gathered from on the ground experience as well as the [Chemical Weapons Research Consortium](https://www.chemicalweaponsresearch.com/), a local Portland group focused on understanding the impact of chemical weapons used by law enforcement on humans and the environment._
 
 Law enforcement responses vary widely from department to department. City police departments often respond very differently to situations than suburban or rural police departments, especially depending on the frequency and intensity of events that have happened within their jurisdiction. However, they all pull from the same playbook and utilize similar strategies.

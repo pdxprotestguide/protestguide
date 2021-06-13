@@ -13,6 +13,8 @@ nextTitle: 'Police Tactics'
 
 # Basic First Aid
 
+[Download as PDF](https://gateway.pinata.cloud/ipfs/QmWEhsvrt55TNZzvpJK1RLAVrs1H1tTyL9b887rNfZhf8E)
+
 _The information in this section has been gathered from on the ground experience with advice from Portland area medics._
 
 

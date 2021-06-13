@@ -13,6 +13,8 @@ prevTitle: 'Before You Go Checklist'
 
 # Protesters’ Rights
 
+[Download as PDF](https://gateway.pinata.cloud/ipfs/QmRNFTKHPj6uNPsHWWGNRw3T4x2ksx1PEjRZWRioQyL3bw)
+
 _The information in this section is collected from the [ACLU Protesters’ Rights page](https://www.aclu.org/know-your-rights/protesters-rights/)._
 
 The First Amendment protects your right to assemble and express your views through protest. However, police and other government officials are allowed to place certain narrow restrictions on the exercise of speech rights. Make sure you’re prepared by brushing up on your rights before heading out into the streets.

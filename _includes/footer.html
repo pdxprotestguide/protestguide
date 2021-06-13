@@ -1,6 +1,9 @@
 <footer>
-    {% if site.github.is_project_page %}
-    <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></small></p>
+    {% if page.style == 'color' %}
+    <p><small><a href="/protestguide/guides/protestor_handbook/downloads">Download guides and other resources</a></small>
+    </p>
+    {% else %}
+    <p><small><a href="/protestguide/bw/guides/protestor_handbook/downloads">Download guides and other resources</a></small></p>
     {% endif %}
     <p><small>Reach us by email at blm.doc.bloc(at)protonmail(dot)com</small></p>
     <p><small>Find more resources on Twitter and Instagram <strong>@pdxprotestguide</strong></small></p>

@@ -13,6 +13,8 @@ nextTitle: 'Maps'
 
 # Relevant Laws
 
+[Download as PDF](https://gateway.pinata.cloud/ipfs/QmRNFTKHPj6uNPsHWWGNRw3T4x2ksx1PEjRZWRioQyL3bw)
+
 _This section covers local and state laws most relevant to those protesting in Portland, OR. See Full Legal Codes section for links to the full definition of each law referenced here._
 
 ### Firearms

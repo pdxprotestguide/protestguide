@@ -7,11 +7,13 @@ switchTo: '/protestguide/guides/portland/legal_codes'
 isLocal: true
 prev: 'maps'
 prevTitle: 'Maps'
-next: false
-nextTitle: false
+next: 'downloads'
+nextTitle: 'Downloads & Resources'
 ---
 
 # Full Legal Codes
+
+[Download as PDF](https://gateway.pinata.cloud/ipfs/QmRNFTKHPj6uNPsHWWGNRw3T4x2ksx1PEjRZWRioQyL3bw)
 
 ### Firearms
 

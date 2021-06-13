@@ -7,11 +7,13 @@ switchTo: '/protestguide/guides/protestor_handbook/laws'
 isLocal: false
 prev: 'police_tactics'
 prevTitle: 'Police Tactics'
-next: false
-nextTitle: false
+next: 'downloads'
+nextTitle: 'Downloads & Resources'
 ---
 
 # Relevant Laws
+
+[Download as PDF](https://gateway.pinata.cloud/ipfs/QmWEhsvrt55TNZzvpJK1RLAVrs1H1tTyL9b887rNfZhf8E)
 
 _This section lists categories of local and state laws it would be helpful to be aware of before you protest, especially if you are considering bringing defensive items like weapons, shields, or body armor._
 
