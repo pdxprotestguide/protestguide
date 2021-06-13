@@ -8,5 +8,10 @@
     <span class="btn next">
         <a href="{{ page.baseURL }}{{ page.next }}">{{ page.nextTitle }} &nbsp; &#8594;</a>
     </span>
+    {% else %}
+    {% assign guidePath = page.baseURL | remove: '/portland' | remove: '/protestor_handbook' %}
+    <span class="btn next">
+        <a href="{{ guidePath }}">Return to guides</a>
+    </span>
     {% endif %}
 </div>
