@@ -21,7 +21,7 @@ Law enforcement responses vary widely from department to department. City police
 
 ### Kettling
 
-Kettling is a trap technique where law enforcement officers will strategically herd a crowd of protestors down streets into a dead end or to an area where there are other law enforcement officers (LEOs) staged and ready to make mass arrests.
+Kettling is a trap technique where law enforcement officers (LEOs) will strategically herd a crowd of protestors down streets into a dead end or to an area where there are other law enforcement officers staged and ready to make mass arrests.
 
 You can avoid kettling by being aware of your surroundings, the streets you are traveling, and how officers are moving. If attending a high risk event, it is recommended to study or create maps so you know ahead of time the safest options for egress.
 
@@ -31,11 +31,12 @@ Note that if you are kettled by police and are detained, but not arrested, you a
 
 ### Impact munitions
 
-Law enforcement often uses various types of impact munitions as a legal means of violence to disperse protestors. These munitions may include powder balls, rubber bullets, rubber buckshot, bean bags, FN303 marking rounds, or plastic batons. The rubber buckshot and FN303 marking rounds are hybrid chemical weapons. The rubber buckshot is sometimes coated in CS (see section C for more detailed information on chemical weapon usage). The FN303 marking rounds contain bismuth shards, which can lead to heavy metal toxicity.
+Law enforcement often uses various types of impact munitions as a legal means of violence to disperse protestors. These munitions may include powder balls, rubber bullets, rubber buckshot, bean bags, FN303 marking rounds, or plastic batons. The rubber buckshot and FN303 marking rounds are hybrid chemical weapons. The rubber buckshot is sometimes coated in CS. The FN303 marking rounds contain bismuth shards, which can lead to heavy metal toxicity.
 
 These munitions have killed and severely injured protestors, especially when directed at protestors' heads. Impact munitions can also cause broken bones, cuts, and severe
 bruising. If you are attending an event where munitions are likely to be used consider wearing or bringing a helmet, motorcycle armor and goggles (not swim goggles), shields, and/or umbrellas.
-Chemical Weapons
+
+### Chemical Weapons
 
 The use of chemical weapons on human beings in the setting of warfare has been outlawed under many different political bodies. Abraham Lincoln outlawed chemical weapon usage in American warfare in 1863, and the Hague Conventions of 1899 and 1907 classified chemical warfare as a war crime, as did the Geneva Conventions of 1925. For domestic use however, these chemical weapons are still a legal option by many cities to use as a form of riot control and crowd dispersal. In Portland, as of 2021, chemical weapons are a legal form of riot control. None of the following chemical weapons are permitted for use in warfare. 
 
